@@ -3,7 +3,7 @@
 
 My daily write-up and notes (*Pwn & Reverse Only*) while I was preparing to compete in some national CTF events. Writing notes helps me understand better when solving challenges, so I made this repository. All of the challenges here are mostly from public open-source CTF platforms like HackTheBox, pwnable, etc. Make sure you have read the [basic of assembly for CTF here](https://github.com/W-zrd/Learn-Low-Level-Assembly).
 
-> This repo is basically my learning progress about CTF which will be updated continuously whenever I get confused.
+> This repo is basically my learning progress about CTF which will be updated continuously whenever Im doing preparation and exercise for competition.
 
 ## List of Contents
 ### [**Binary Exploitation**](/binary-exploitation/README.md)
