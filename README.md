@@ -10,8 +10,8 @@ All the challenges here are easy level problems because I only want to learn the
 ### [**Binary Exploitation**](/binary-exploitation/README.md)
 - [You know 0xDiablos [HackTheBox]](/binary-exploitation/README.md#you-know-0xdiablos): Buffer Overflow, return2win
 - [Racecar [HackTheBox]](/binary-exploitation/README.md#racecar): Format string vulnerability, Memory leak
-- [Start [Pwnable]](/binary-exploitation/README.md#orw): System Call, Shellcode
-- [ORW [Pwnable]](/binary-exploitation/README.md#orw): System Call, Shellcode - (**TODO**)
+- [Start [Pwnable]](/binary-exploitation/README.md#start): System Call, Shellcode
+- [ORW [Pwnable]](/binary-exploitation/README.md#orw): System Call, Shellcode
 - ret2win [Rop Emporium] - (**TODO**)
 
 ### [**Reverse Engineering**](/reverse-engineering/README.md)
