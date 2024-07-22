@@ -7,6 +7,8 @@
 ## Behind the Scenes
 **Keyword: UD2, Undefined Instruction**
 
+**Challenge URL:** https://app.hackthebox.com/challenges/Behind%2520the%2520Scenes
+
 Given an executable file in 64-bit ELF format. If you run the program, it will ask you a password in order to get the flag. Actually this challenge can be done easily by opening the executable file using Radare2 like shown on the image below.
 
 ![alt](/img/bts1.png)
